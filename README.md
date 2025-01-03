@@ -9,9 +9,9 @@ A fun and interactive **Tic Tac Toe** game developed by using **HTML**, **CSS**,
 **Purpose 🎯**: To showcase web-development skills like UI design, game logic implementation, and responsive design.
 
 **Technologies Used 💻**:
-- **HTML**: Structure of the game.
-- **CSS**: Styling and responsiveness.
-- **JavaSCript**: Game logic and inetractivity.
+- **HTML**: Structure of the game.![HTML5 LOGO](Screenshots/HTML5-Logo.jpg)
+- **CSS**: Styling and responsiveness.![CSS3 LOGO](Screenshots/CSS3-Logo.jpg)
+- **JavaSCript**: Game logic and inetractivity.![JS LOGO](Screenshots/JS logo.png)
 
 ## Features 
 - **Two-Player Gameplay**: Player 1 (X) and Player 2 (O) can play alternately on the same device.
