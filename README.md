@@ -11,7 +11,7 @@ A fun and interactive **Tic Tac Toe** game developed by using **HTML**, **CSS**,
 **Technologies Used 💻**:
 - **HTML**: Structure of the game.![HTML5 LOGO](Screenshots/HTML5-Logo.jpg)
 - **CSS**: Styling and responsiveness.![CSS3 LOGO](Screenshots/CSS3-Logo.jpg)
-- **JavaSCript**: Game logic and inetractivity. ! [JS LOGO](Screenshots/JSlogo.png)
+- **JavaSCript**: Game logic and inetractivity. ![JS LOGO](Screenshots/JSlogo.png)
 
 ## Features 
 - **Two-Player Gameplay**: Player 1 (X) and Player 2 (O) can play alternately on the same device.
