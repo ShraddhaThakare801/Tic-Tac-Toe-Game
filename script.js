@@ -5,6 +5,7 @@ let msgContainer = document.querySelector(".msg-container");
 let msg = document.querySelector("#msg");
 
 let turnO = true; //playerX, playerO
+let count= 0; // to track gameDraw condition 
 
 const winPatterns = [
     [0,1,2],
@@ -17,10 +18,9 @@ const winPatterns = [
     [2,4,6]
 ]
 
-
-
 const resetGame = () => {
     turnO = true;
+    count =0;
     enableBoxes();
     msgContainer.classList.add("hide");
 }
@@ -49,10 +49,9 @@ boxes.forEach((box) => {
     })
 })
 
-let count = 0;
 const gameDraw = () => {
     msg.innerText = `Game Was A Draw!!
-     No Winner`;
+    No Winner`;
     msgContainer.classList.remove("hide");
     disableBoxes();
 }
@@ -76,10 +75,6 @@ const showWinner = (winner) => {
     msgContainer.classList.remove("hide");
     disableBoxes();
     }
-    else{
-        draw();
-    }
-    
 }
 
 const checkWinner = () => {
