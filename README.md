@@ -9,9 +9,9 @@ A fun and interactive **Tic Tac Toe** game developed by using **HTML**, **CSS**,
 **Purpose 🎯**: To showcase web-development skills like UI design, game logic implementation, and responsive design.
 
 **Technologies Used 💻**:
-- **HTML**: Structure of the game.![HTML5 LOGO](Screenshots/HTML5-Logo.jpg)
-- **CSS**: Styling and responsiveness.![CSS3 LOGO](Screenshots/CSS3-Logo.jpg)
-- **JavaSCript**: Game logic and inetractivity. ![JS LOGO](Screenshots/JSlogo.png)
+- **HTML**: Structure of the game.
+- **CSS**: Styling and responsiveness.
+- **JavaSCript**: Game logic and inetractivity.
 
 ## Features 
 - **Two-Player Gameplay**: Player 1 (X) and Player 2 (O) can play alternately on the same device.
@@ -45,6 +45,17 @@ A fun and interactive **Tic Tac Toe** game developed by using **HTML**, **CSS**,
 4. The game announces the winner or declares a draw at the end.
 5. Use the reset button to restart the game.
 
+## Future Enhancement
+
+### 1. AI as an opponent
+- User will play against computer
+
+### 3. Enhanced UI/UX
+- Allow customization of game board with the themes, colors, and player avtar.
+- Add animation for winning moves, draws.
+
+### 2. Advanced game modes
+- Expand the game to larger grids (4 * 4 or 5 * 5) with updated win conditions.
 
 
 
