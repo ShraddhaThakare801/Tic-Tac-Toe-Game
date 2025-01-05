@@ -50,12 +50,12 @@ A fun and interactive **Tic Tac Toe** game developed by using **HTML**, **CSS**,
 ### 1. AI as an opponent
 - User will play against computer
 
+### 2. Advanced game modes
+- Expand the game to larger grids (4 * 4 or 5 * 5) with updated win conditions.
+
 ### 3. Enhanced UI/UX
 - Allow customization of game board with the themes, colors, and player avtar.
 - Add animation for winning moves, draws.
-
-### 2. Advanced game modes
-- Expand the game to larger grids (4 * 4 or 5 * 5) with updated win conditions.
 
 
 
